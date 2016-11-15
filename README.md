@@ -41,7 +41,7 @@ Good luck!
 ==================================================================
 ###The repo contains the following files and directories:
 
-1-dataset: the dataset directory, downloaded from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+1-dataset: the dataset directory, downloaded from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip . The files that were not utilized in the current analysis were removed from the folder.
 
 2-codebook.md: a file containing descriptions for the variables available in run_analysis.R 
 
