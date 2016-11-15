@@ -4,11 +4,11 @@ Week 4
 Peer graded assignment
 README
 ==================================================================
-#Instructions 
+##Instructions 
 (Avaliable at: https://www.coursera.org/learn/data-cleaning)
 
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set.
-##Review criteria
+###Review criteria
 
     The submitted data set is tidy.
     The Github repo contains the required scripts.
