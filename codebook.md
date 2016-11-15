@@ -4,7 +4,7 @@ Week 4
 Peer graded assignment
 CODEBOOK
 ==================================================================
-*This codebook contains a brief explanation on the variables and libraries available in the *run_analysis.R* code.
+This codebook contains a brief explanation on the variables and libraries available in the *run_analysis.R* code.
 
 Package:
 *dplyr: "A fast, consistent tool for working with data frame like objects, both in memory and out of memory". Extracted from: https://cran.r-project.org/web/packages/dplyr/dplyr.pdf
