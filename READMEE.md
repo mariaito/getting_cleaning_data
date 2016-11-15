@@ -41,22 +41,22 @@ Good luck!
 ==================================================================
 ###The repo contains the following files and directories:
 
-1-dataset: the dataset directory, downloaded from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+1-dataset: the dataset directory, downloaded from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 1
 
-2-codebook.md: a file containing descriptions for the variables available in run_analysis.R
+2-codebook.md: a file containing descriptions for the variables available in run_analysis.R 2
 
-3-run_analysis.R: the code developed for transforming the data available in the *dataset* directory into the *w04project.txt* file
+3-run_analysis.R: the code developed for transforming the data available in the *dataset* directory into the *w04project.txt* file 3
 
-4-w04project.txt: the output to the *run_analysis.R* code
+4-w04project.txt: the output to the *run_analysis.R* code 4
 
-5-README.md: this file, which contains the necessary explanations for the understanding of the content in this repo
+5-README.md: this file, which contains the necessary explanations for the understanding of the content in this repo 5
 
 ==================================================================
 ###Instructions for running the code
-a-Download the content in this repo
+a-Download the content in this repo 1
 
-b-Alter the *run_analysis.R* with the directory you would like to work on, by replacing "/home/maria/R/" with the desired path
+b-Alter the *run_analysis.R* with the directory you would like to work on, by replacing "/home/maria/R/" with the desired path 2
 
-c-Open an R console and set the working directory with the same directory as the above topic
+c-Open an R console and set the working directory with the same directory as the above topic 3
 
-d-Source the code: source('run_analysis.R')
+d-Source the code: source('run_analysis.R') 4
