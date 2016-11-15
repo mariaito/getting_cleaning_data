@@ -7,9 +7,11 @@ CODEBOOK
 This codebook contains a brief explanation on the variables and libraries available in the *run_analysis.R* code.
 
 Package:
+
 *dplyr: "A fast, consistent tool for working with data frame like objects, both in memory and out of memory". Extracted from: https://cran.r-project.org/web/packages/dplyr/dplyr.pdf
 
 Variables:
+
 *activity_labels: contains information from "activity_labels.txt", in the dataset. It describes the activities performed during the experiments ahd the numbers assigned to them
 *features:  contains information from "features.txt", in the dataset. It lists the column names from the "X_test.txt" and "X_train.txt", and provide a short explanation on the feature that has been measured
 
