@@ -13,10 +13,13 @@ Package:
 Variables:
 
 *activity_labels: contains information from "activity_labels.txt", in the dataset. It describes the activities performed during the experiments ahd the numbers assigned to them
+
 *features:  contains information from "features.txt", in the dataset. It lists the column names from the "X_test.txt" and "X_train.txt", and provide a short explanation on the feature that has been measured
 
 *y_test / y_train: contains a vector of the activities' numbers that were performed during the measurements performed in X_test / X_train
+
 *subject_test / subject_train: contains a vector of the subject (1 to 30) that performed the tasks during the measurements performed in X_test / X_train
+
 *X_test / X_train: contains a data frame of observations that were measured in the test and train experiments
 
 *y_data / X_data / subject_data: the merged test and train data frames
