@@ -26,11 +26,11 @@ Variables:
 
 *X_data_2: X_data with only "mean" and "std" columns
 
-*Activity: a vector containing only the second column of *activity_labels*, i.e., withonly the activity names
+*Activity: a vector containing only the second column of activity_labels, i.e., withonly the activity names
 
 *Table: data frame containing the subject who performed the activity (Column 1), the performed activity (Column 2), and the measurements containing mean and standard deviation columns (Columns 3-88)
 
-*MeansTable: data frame containing the average of the measurements in Columns 3-88 from *Table*, according to the subject and the activity
+*MeansTable: data frame containing the average of the measurements in Columns 3-88 from Table, according to the subject and the activity
 
 
 ==================================================================
